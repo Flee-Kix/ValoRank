@@ -2,7 +2,7 @@ const { Client, GatewayIntentBits } = require("discord.js");
 const axios = require("axios");
 
 // Replace with your actual bot token
-const DISCORD_TOKEN = "MTI4MzY3NzYyMTYzMjIzNzYwMA.GuBbEP.sKrbGjyzDtFJxMa1Ql_ADXo5HjvwNL5mH3CYRI"; 
+const DISCORD_TOKEN = ""; 
 const SHEET_URL = "https://script.google.com/macros/s/AKfycbxEmZmWv4AocFK2E2vMJtLJYkw6oLLo6jiR_n7x5sLuGMGB6s-j-Cwg5uq71K6iRa8RtA/exec";
 
 console.log("Starting bot...");
